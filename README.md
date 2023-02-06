@@ -6,5 +6,5 @@ Here we have designed a full fledged working website for Courier Management, whe
 
 
 <br>
-<img align="right" alt="Coding" width="400" src="https://github.com/vishal-affinity/vishal-affinity/blob/main/ninjala-jane.gif" width="200"/>
+<img align="right" alt="Coding" width="400" src="https://github.com/vishal-affinity/Courier-Management-System/blob/main/Screenshot%20(942).png" width="200"/>
 </br>
